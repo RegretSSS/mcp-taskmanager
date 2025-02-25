@@ -1,6 +1,6 @@
 # MCP TaskManager
 
-Model Context Protocol server for Task Management. This allows Claude Desktop (or any MCP client) to manage and execute tasks in a structured workflow system.
+Model Context Protocol server for Task Management. This allows Claude Desktop (or any MCP client) to manage and execute tasks in a structured workflow system.Added the concept of ApprovedRequest compared to the original version to prevent the list command from polluting the context of the large model.
 
 ## Key Features
 
